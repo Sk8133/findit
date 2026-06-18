@@ -1,0 +1,14 @@
+{
+  "name": "findit-app",
+  "version": "1.0.0",
+  "description": "FindIt — Lost & Found Platform (zero dependencies)",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js"
+  },
+  "keywords": ["lost", "found", "nodejs"],
+  "author": "FindIt",
+  "license": "ISC",
+  "engines": { "node": ">=14.0.0" }
+}
