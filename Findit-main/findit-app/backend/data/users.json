@@ -1,0 +1,38 @@
+[
+  {
+    "id": "u_demo",
+    "fname": "Demo",
+    "lname": "User",
+    "name": "Demo User",
+    "email": "demo@findit.com",
+    "phone": "+91 98765 00000",
+    "city": "Chennai",
+    "gender": "Other",
+    "password": "615e2ab3618a2562f164b0245b0220cf:ad4a747cc7e733aed421b53af2138efbba951b996e153d2650a344edb44031f6",
+    "createdAt": "2026-04-09T15:34:22.448Z"
+  },
+  {
+    "id": "u_79a54ef05d29",
+    "fname": "Thumati",
+    "lname": "Bhavana Sri",
+    "name": "Thumati Bhavana Sri",
+    "email": "thumatibhavanasri@gmail.com",
+    "phone": "+917780557441",
+    "city": "Warangal",
+    "gender": "Female",
+    "password": "7846f0a5443b1d358a7c0c08822161ea:568d98ffc23d397583d9289c2f6819032c0dcdf1442d532ce5d2844ba59ff168",
+    "createdAt": "2026-04-09T15:35:23.564Z"
+  },
+  {
+    "id": "u_60a4a6e38bdb",
+    "fname": "mula",
+    "lname": "nirnaya",
+    "name": "mula nirnaya",
+    "email": "mulanirnaya@gmail.com",
+    "phone": "9032705212",
+    "city": "Warangal",
+    "gender": "Female",
+    "password": "12b2d709e6a7abdc3c9d41c77fa1e114:3ee9d488e3f8a48f6d73d28c03d836ef2aa0a9fe6a7e56b00a898b262773e619",
+    "createdAt": "2026-04-09T15:51:12.639Z"
+  }
+]

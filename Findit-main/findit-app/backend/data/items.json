@@ -1,0 +1,184 @@
+[
+  {
+    "id": "item_s1",
+    "type": "lost",
+    "status": "lost",
+    "userId": "u_demo",
+    "userName": "Demo User",
+    "title": "Black Samsung Galaxy S23",
+    "category": "Electronics",
+    "date": "2026-04-07",
+    "description": "Lost my Samsung Galaxy S23 near the food court. Has a cracked screen protector and a red phone case.",
+    "colour": "Black",
+    "size": "Small",
+    "brand": "Samsung",
+    "features": "Red case, cracked screen protector",
+    "location": "Phoenix Mall, Chennai",
+    "landmark": "Near food court",
+    "contactName": "Demo User",
+    "contactPhone": "+91 98765 00000",
+    "contactEmail": "demo@findit.com",
+    "contactMethod": "Any",
+    "reward": "₹1000 reward",
+    "imageData": null,
+    "createdAt": "2026-04-07T15:34:22.452Z",
+    "updatedAt": "2026-04-08T15:34:22.452Z",
+    "updates": [
+      {
+        "date": "2026-04-07T15:34:22.452Z",
+        "message": "Report submitted — actively searching.",
+        "status": "lost"
+      },
+      {
+        "date": "2026-04-08T15:34:22.452Z",
+        "message": "Checked with mall security — no luck yet.",
+        "status": "lost"
+      }
+    ]
+  },
+  {
+    "id": "item_s2",
+    "type": "found",
+    "status": "found",
+    "userId": "u_demo",
+    "userName": "Demo User",
+    "title": "Brown Leather Wallet",
+    "category": "Wallet",
+    "date": "2026-04-08",
+    "description": "Found a brown leather wallet near the bus stop. Contains cash and ID cards. Not opened the contents.",
+    "colour": "Brown",
+    "size": "Small",
+    "brand": "",
+    "features": "Gold buckle, initials \"R.K.\" on front",
+    "location": "T. Nagar Bus Stop, Chennai",
+    "landmark": "Stop No. 7",
+    "contactName": "Demo User",
+    "contactPhone": "+91 98765 00000",
+    "contactEmail": "demo@findit.com",
+    "contactMethod": "Phone call",
+    "reward": "",
+    "imageData": null,
+    "createdAt": "2026-04-08T15:34:22.457Z",
+    "updatedAt": "2026-04-08T15:34:22.457Z",
+    "updates": [
+      {
+        "date": "2026-04-08T15:34:22.457Z",
+        "message": "Item found and reported — awaiting owner contact.",
+        "status": "found"
+      }
+    ],
+    "currentLocation": "With me (safe custody)"
+  },
+  {
+    "id": "item_s3",
+    "type": "lost",
+    "status": "returned",
+    "userId": "u_demo",
+    "userName": "Demo User",
+    "title": "Blue School Bag (Nike)",
+    "category": "Bags",
+    "date": "2026-04-04",
+    "description": "Lost my son's blue Nike school bag on the MTC bus. Contains textbooks, a pencil case, and a water bottle.",
+    "colour": "Blue",
+    "size": "Large",
+    "brand": "Nike",
+    "features": "Name tag \"Arjun\" inside",
+    "location": "MTC Bus Route 21C",
+    "landmark": "Adyar Signal",
+    "contactName": "Demo User",
+    "contactPhone": "+91 98765 00000",
+    "contactEmail": "demo@findit.com",
+    "contactMethod": "WhatsApp",
+    "reward": "₹500 reward",
+    "imageData": null,
+    "createdAt": "2026-04-04T15:34:22.457Z",
+    "updatedAt": "2026-04-06T15:34:22.457Z",
+    "updates": [
+      {
+        "date": "2026-04-04T15:34:22.457Z",
+        "message": "Report submitted — bag lost on bus.",
+        "status": "lost"
+      },
+      {
+        "date": "2026-04-05T15:34:22.457Z",
+        "message": "A kind person found it and contacted us!",
+        "status": "pending"
+      },
+      {
+        "date": "2026-04-06T15:34:22.457Z",
+        "message": "Bag successfully returned. Thank you! 🙏",
+        "status": "returned"
+      }
+    ]
+  },
+  {
+    "id": "item_s4",
+    "type": "found",
+    "status": "pending",
+    "userId": "u_demo",
+    "userName": "Demo User",
+    "title": "Gold Chain Necklace",
+    "category": "Jewellery",
+    "date": "2026-04-06",
+    "description": "Found a gold chain near the beach. Looks valuable. Please describe it correctly to claim.",
+    "colour": "Gold",
+    "size": "Very Small",
+    "brand": "",
+    "features": "Small pendant, religious symbol",
+    "location": "Marina Beach, Chennai",
+    "landmark": "Near lighthouse",
+    "contactName": "Demo User",
+    "contactPhone": "+91 98765 00000",
+    "contactEmail": "demo@findit.com",
+    "contactMethod": "WhatsApp",
+    "reward": "",
+    "imageData": null,
+    "createdAt": "2026-04-06T15:34:22.457Z",
+    "updatedAt": "2026-04-07T15:34:22.457Z",
+    "updates": [
+      {
+        "date": "2026-04-06T15:34:22.457Z",
+        "message": "Item found and reported.",
+        "status": "found"
+      },
+      {
+        "date": "2026-04-07T15:34:22.457Z",
+        "message": "Someone has reached out — verifying details.",
+        "status": "pending"
+      }
+    ],
+    "currentLocation": "With me (safe custody)"
+  },
+  {
+    "id": "item_s5",
+    "type": "lost",
+    "status": "lost",
+    "userId": "u_demo",
+    "userName": "Demo User",
+    "title": "Maroon Passport & Documents",
+    "category": "Documents",
+    "date": "2026-04-09",
+    "description": "Lost my passport and visa documents at the airport. Very urgent — flying in 3 days!",
+    "colour": "Red",
+    "size": "Small",
+    "brand": "Govt of India",
+    "features": "Name: Rajesh Kumar",
+    "location": "Chennai International Airport",
+    "landmark": "Terminal 2, Departures",
+    "contactName": "Demo User",
+    "contactPhone": "+91 98765 00000",
+    "contactEmail": "demo@findit.com",
+    "contactMethod": "Phone call",
+    "reward": "",
+    "imageData": null,
+    "createdAt": "2026-04-09T15:34:22.457Z",
+    "updatedAt": "2026-04-09T15:34:22.457Z",
+    "updates": [
+      {
+        "date": "2026-04-09T15:34:22.457Z",
+        "message": "URGENT: Documents lost at airport!",
+        "status": "lost"
+      }
+    ]
+  }
+]
